@@ -1,0 +1,15 @@
+C:\Users\anton\Desktop\DDHOOLA\LAB_PROJEKT\bin\Debug\net6.0\LAB_PROJEKT.exe
+C:\Users\anton\Desktop\DDHOOLA\LAB_PROJEKT\bin\Debug\net6.0\LAB_PROJEKT.deps.json
+C:\Users\anton\Desktop\DDHOOLA\LAB_PROJEKT\bin\Debug\net6.0\LAB_PROJEKT.runtimeconfig.json
+C:\Users\anton\Desktop\DDHOOLA\LAB_PROJEKT\bin\Debug\net6.0\LAB_PROJEKT.dll
+C:\Users\anton\Desktop\DDHOOLA\LAB_PROJEKT\bin\Debug\net6.0\LAB_PROJEKT.pdb
+C:\Users\anton\Desktop\DDHOOLA\LAB_PROJEKT\obj\Debug\net6.0\LAB_PROJEKT.csproj.AssemblyReference.cache
+C:\Users\anton\Desktop\DDHOOLA\LAB_PROJEKT\obj\Debug\net6.0\LAB_PROJEKT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Desktop\DDHOOLA\LAB_PROJEKT\obj\Debug\net6.0\LAB_PROJEKT.AssemblyInfoInputs.cache
+C:\Users\anton\Desktop\DDHOOLA\LAB_PROJEKT\obj\Debug\net6.0\LAB_PROJEKT.AssemblyInfo.cs
+C:\Users\anton\Desktop\DDHOOLA\LAB_PROJEKT\obj\Debug\net6.0\LAB_PROJEKT.csproj.CoreCompileInputs.cache
+C:\Users\anton\Desktop\DDHOOLA\LAB_PROJEKT\obj\Debug\net6.0\LAB_PROJEKT.dll
+C:\Users\anton\Desktop\DDHOOLA\LAB_PROJEKT\obj\Debug\net6.0\refint\LAB_PROJEKT.dll
+C:\Users\anton\Desktop\DDHOOLA\LAB_PROJEKT\obj\Debug\net6.0\LAB_PROJEKT.pdb
+C:\Users\anton\Desktop\DDHOOLA\LAB_PROJEKT\obj\Debug\net6.0\LAB_PROJEKT.genruntimeconfig.cache
+C:\Users\anton\Desktop\DDHOOLA\LAB_PROJEKT\obj\Debug\net6.0\ref\LAB_PROJEKT.dll
